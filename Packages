@@ -1,0 +1,20 @@
+Package: com.posterforge.wallpapers
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: PosterForge
+Installed-Size: 452
+Depends: firmware (>= 16.0), firmware (<< 17.0), preferenceloader, unzip
+Conflicts: com.posterforge.wallpapers-rootful
+Filename: debs/com.posterforge.wallpapers_0.1.0_iphoneos-arm64.deb
+Size: 42642
+MD5sum: 13ec468f023159bfa38696724675da7f
+SHA1: df388b40d30660187365d116d041e4ea17fe83d5
+SHA256: 2ee54e1221b3ff52616ba45ceaad9d589215169b162f53c55d99cf82c26aeb8c
+Section: Tweaks
+Priority: optional
+Homepage: https://mubixbyte.github.io/PosterForge/
+Description: On-device custom photo, video and Tendies posters for the iOS 16 wallpaper gallery.
+Author: PosterForge
+Depiction: https://mubixbyte.github.io/PosterForge/
+Name: PosterForge
+

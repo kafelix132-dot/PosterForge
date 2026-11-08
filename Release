@@ -1,0 +1,8 @@
+Origin: PosterForge
+Label: PosterForge
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Native photo and video wallpapers for iOS 16
